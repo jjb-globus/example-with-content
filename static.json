@@ -13,7 +13,7 @@
         "terms_of_service": "This is an example terms of service – you should replace this with your own terms.",
         "navigation": {
           "items": [
-            { "label": "Custom Page", "to": "/example" }
+            { "label": "Custom Page", "to": "/example" },
             { "label": "Source", "href": "https://github.com/jjb-globus/example-with-content/edit/main/static.json" }
           ]
         }
