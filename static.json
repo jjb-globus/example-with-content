@@ -10,7 +10,13 @@
       "content": {
         "title": "Modern Research Data Portal",
         "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
-        "terms_of_service": "This is an example terms of service – you should replace this with your own terms."
+        "terms_of_service": "This is an example terms of service – you should replace this with your own terms.",
+        "navigation": {
+          "items": [
+            {"label": "Example", "to": "/example"},
+            {"label": "Source", "href": "https://github.com/jjb-globus/example-with-content/edit/main/static.json" }
+          ]
+        }
       },
       "globus": {
         "application": {
