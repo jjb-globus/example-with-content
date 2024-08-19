@@ -21,4 +21,6 @@ concurrency:
 
 jobs:
   static:
-    uses: from-static/actions/.github/workflows/static.yml@v2
+    uses: from-static/actions/.github/workflows/static.yml@main
+    with:
+      generator_ref: "main"
